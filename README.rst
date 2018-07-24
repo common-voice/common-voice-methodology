@@ -9,20 +9,54 @@ AAA
 .. section-numbering::
 
 
-Goal
-====
+Goal & approach
+===============
 
-The goal of this repository/living document is to outline a well-researched and methodological approach for the construction of sentence based corpora 
+The goal of this repository/living document is two-fold:
+1. To outline a well-researched and methodological approach for the construction of sentence based corpora designated to be recorded, and thus become read speech corpora.
+2. To outline a well-researched and methodological approach for the collection of recordings of a sentence based corpora 
 
+This is done by advising with domain experts and integrating conclusions and lessons learned from past research in the field.
+
+The approach taken here is simple: First, the premise is set, detailing the various aspects of corpus construction and collection that require attention, and the possible approaches to each; Then, a set of best practices is suggested, corresponding to the list of aspects detailed in the premise. Where a wide concensus has been reached by advising parties, a single best practice is suggested, while several are outlined in the case of differing opinions, detailing possible implications of the choice between them, where possible.
+
+
+Premise
+=======
+
+Corpus construction
+-------------------
+
+A methodological approach for the construction of said corpora is required to address several aspects of the construction process:
+
+- Data source: The data source from which the sentences composing the corpus are extracted.
+- Dataset size:
+- Sampling method:
+
+
+Sentence collection
+-------------------
+
+A methodological approach for the collection of said speech corpora is required to address several aspects of the collection process:
+
+- Recording equipment:
+- Recording environment:
+- Collected metadata:
+- Number of recordings per sentence:
+- Validation method:
+
+
+Guidelines
+==========
 
 
 Contributing
 ============
 
-This effort is currently managed and maintained by Shay Palachy (shay.palachy@gmail.com), as part of the work on Common Voice: Hebrew. You opinion and contributions are very welcomed, and you can either open issues to discuss specific topics and pull request for suggested additions (preferrablly) or mail me directly at the above email address.
+This effort is currently managed and maintained by Shay Palachy (shay.palachy@gmail.com), as part of the work on Common Voice: Hebrew. Your opinion and contributions are very welcomed, and you can either open issues to discuss specific topics and pull request for suggested additions (preferrablly) or mail me directly at the above email address.
 
 
 References
 ==========
 
-.. [Panayotov15] V. Panayotov, G. Chen, D. Povey and S. Khudanpur, "LibriSpeech: an ASR corpus based on public domain audio books", ICASSP 2015
+.. [Panayotov15] V. Panayotov, G. Chen, D. Povey and S. Khudanpur, "LibriSpeech: an ASR corpus based on public domain audio books", ICASSP 2015 `[pdf] <http://www.danielpovey.com/files/2015_icassp_librispeech.pdf>`_
