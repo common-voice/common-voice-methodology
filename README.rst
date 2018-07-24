@@ -1,7 +1,7 @@
 Common Voice: Methodology
 #########################
 
-AAA
+A living document outlining a methodological approach for building read speech sentence corpora.
 
 
 .. contents::
@@ -13,12 +13,16 @@ Goal & approach
 ===============
 
 The goal of this repository/living document is two-fold:
-1. To outline a well-researched and methodological approach for the construction of sentence based corpora designated to be recorded, and thus become read speech corpora.
-2. To outline a well-researched and methodological approach for the collection of recordings of a sentence based corpora 
+
+1. To outline a well-researched and methodological approach for the construction of sentence-based corpora designated to be recorded, and thus become read speech corpora.
+2. To outline a well-researched and methodological approach for the collection of recordings of such a sentence-based corpora 
 
 This is done by advising with domain experts and integrating conclusions and lessons learned from past research in the field.
 
-The approach taken here is simple: First, the premise is set, detailing the various aspects of corpus construction and collection that require attention, and the possible approaches to each; Then, a set of best practices is suggested, corresponding to the list of aspects detailed in the premise. Where a wide concensus has been reached by advising parties, a single best practice is suggested, while several are outlined in the case of differing opinions, detailing possible implications of the choice between them, where possible.
+The approach taken here is simple:
+
+- First, the premise is set, detailing the various aspects of corpus construction and collection that require attention, and the possible approaches to each aspect.
+- Then, a set of best practices is suggested, corresponding to the list of aspects detailed in the premise. Where a wide concensus has been reached by advising parties, a single best practice is suggested, while several are outlined in the case of differing opinions, detailing possible implications of the choice between them, where possible.
 
 
 Premise
