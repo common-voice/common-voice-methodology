@@ -71,3 +71,7 @@ References
    "The Design for the Wall Street Journal-based CSR Corpus",
    HLT '91 Proceedings of the workshop on Speech and Natural Language, Pages 357-362
    `[pdf] <http://anthology.aclweb.org/H/H92/H92-1073.pdf>`_
+
+.. [Fransen] J. Fransen, D. Pye, T. Robinson, P. Woodland and S. Young,
+   "WSJCAM0 Corpus and Recording Description"
+   `[link] <https://catalog.ldc.upenn.edu/docs/LDC95S24/wsjcam0.html>`_
