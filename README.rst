@@ -75,3 +75,7 @@ References
 .. [Fransen] J. Fransen, D. Pye, T. Robinson, P. Woodland and S. Young,
    "WSJCAM0 Corpus and Recording Description"
    `[link] <https://catalog.ldc.upenn.edu/docs/LDC95S24/wsjcam0.html>`_
+
+.. [Garofolo86] Garofolo, John S., Lori F. Lamel, William M. Fisher, Jonathon G. Fiscus, David S. Pallett, and Nancy L. Dahlgren,
+   "The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus (TIMIT)"
+   `[link] <https://catalog.ldc.upenn.edu/docs/LDC93S1/timit.readme.html>`_
