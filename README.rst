@@ -79,3 +79,7 @@ References
 .. [Garofolo86] Garofolo, John S., Lori F. Lamel, William M. Fisher, Jonathon G. Fiscus, David S. Pallett, and Nancy L. Dahlgren,
    "The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus (TIMIT)"
    `[link] <https://catalog.ldc.upenn.edu/docs/LDC93S1/timit.readme.html>`_
+
+.. [Varod17] Silber-Varod, V., Latin, M., & Moyal, A. (2017)
+   "Frequency of Hebrew phonemes and phoneme clusters in a data-driven approach. (in Hebrew). Literacy and Language (Oryanut Ve-Safa), 6, 22-36
+   `[pdf] <https://www.openu.ac.il/personal_sites/vered-silber-varod/download/Phonemes_freqency_Silber-Varod-Latin-Moyal.pdf>`_
