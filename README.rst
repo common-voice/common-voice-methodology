@@ -65,5 +65,4 @@ References
 
 .. [Panayotov15] V. Panayotov, G. Chen, D. Povey and S. Khudanpur, "LibriSpeech: an ASR corpus based on public domain audio books", ICASSP 2015 `[pdf] <http://www.danielpovey.com/files/2015_icassp_librispeech.pdf>`_
 
-.. [Paul92] D. B. Paul and J. M. Baker, "The Design for the Wall Street Journal-based
-CSR Corpus", HLT '91 Proceedings of the workshop on Speech and Natural Language, Pages 357-362  `[pdf] <http://anthology.aclweb.org/H/H92/H92-1073.pdf>`_
+.. [Paul92] D. B. Paul and J. M. Baker, "The Design for the Wall Street Journal-based CSR Corpus", HLT '91 Proceedings of the workshop on Speech and Natural Language, Pages 357-362  `[pdf] <http://anthology.aclweb.org/H/H92/H92-1073.pdf>`_
