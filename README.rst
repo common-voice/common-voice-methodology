@@ -38,7 +38,7 @@ A methodological approach for the construction of said corpora is required to ad
   - **Licensing:** The license under which texts from the data source are licensed.
   - **Data source type:** Newspaper, social network site, book, articles, conversation transcripts, transcripts of official precedings, etc.
   - **Data source count:** The number of different data sources sentences are sampled from (e.g. the number of different new websites, books, etc.).
-  - **Register:** The register in which the text is written (or in which the transcribed speech was spoken). E.g. Formatl vs. consultative vs. casual.
+  - **Register:** The register in which the text is written (or in which the transcribed speech was spoken). E.g. Formal vs. consultative vs. casual.
   - **Time of origin:** The time source text or speech were recorded.
 - Dataset size:
 - Sampling method:
