@@ -22,7 +22,7 @@ This is done by advising with domain experts and integrating conclusions and les
 The approach taken here is simple:
 
 - First, the premise is set, detailing the various aspects of corpus construction and collection that require attention, and the possible approaches to each aspect.
-- Then, a set of best practices is suggested, corresponding to the list of aspects detailed in the premise. Where a wide concensus has been reached by advising parties, a single best practice is suggested, while several are outlined in the case of differing opinions, detailing possible implications of the choice between them, where possible.
+- Then, a set of best practices is suggested, corresponding to the list of aspects detailed in the premise. Where a wide concensus has been reached by advising parties, a single best practice is suggested; otherwise, in the case of differing opinions, several approaches are outlined, and the possible implications of the choice between them is detailed, where possible.
 
 
 Premise
@@ -33,7 +33,13 @@ Corpus construction
 
 A methodological approach for the construction of said corpora is required to address several aspects of the construction process:
 
-- Data source: The data source from which the sentences composing the corpus are extracted.
+- **Data source:** The data source from which the sentences composing the corpus are extracted.
+
+  - **Licensing:** The license under which texts from the data source are licensed.
+  - **Data source type:** Newspaper, social network site, book, articles, conversation transcripts, transcripts of official precedings, etc.
+  - **Data source count:** The number of different data sources sentences are sampled from (e.g. the number of different new websites, books, etc.).
+  - **Register:** The register in which the text is written (or in which the transcribed speech was spoken). E.g. Formatl vs. consultative vs. casual.
+  - **Time of origin:** The time source text or speech were recorded.
 - Dataset size:
 - Sampling method:
 
