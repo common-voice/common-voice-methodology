@@ -14,7 +14,7 @@ Goal & approach
 
 The goal of this repository/living document is two-fold:
 
-1. To outline a well-researched and methodological approach for the construction of sentence-based corpora designated for recording, and thus be serving as the basis of read speech corpora.
+1. To outline a well-researched and methodological approach for the construction of sentence-based corpora designated for recording, and thus to serve as the basis of read speech corpora.
 2. To outline a well-researched and methodological approach for the collection of recordings of such a sentence-based corpora 
 
 This is done by advising with domain experts and integrating conclusions and lessons learned from past research in the field.
