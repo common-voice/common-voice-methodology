@@ -59,6 +59,8 @@ A methodological approach for the collection of said speech corpora is required 
 Guidelines
 ==========
 
+An example for a corpus built with this methodology is `The SVLM Hebrew Wikipedia Courpus <https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus>`_.
+
 
 Contributing
 ============
